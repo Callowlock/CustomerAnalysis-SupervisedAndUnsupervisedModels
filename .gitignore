@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook configuration files
+.jupyter/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Output files
+*.out
+*.tsv
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+
+# Metadata files
+*.egg-info/
